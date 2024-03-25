@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "edutrack-199a8",
+  "private_key_id": "a8b2c1b0d5444cdde615037d7248f538f6f09e5d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzdR/4QQ6d/cYt\nI2CZETyRJVxbKsgA/hTn7uhuNQ3NKAzniB7akqwxzyGFevOZ6rMehcLdLlWI6Ey0\n68V0nMgnnocaMcXhIrG2P1rUSmkSEsmGwd85wcZRfpDgRc65O//w7YkPkrtHibhv\nviiKVmdrCsbJb/dH6smjAircuHHGZIb99u6345y8Cu8vdXIkAqt8SArCWyjB1ScU\n74AXOzfN5rEkZC4vW9KAfofvn2oKeDAp9SBwuk2MPYtkUf5C3hJiz2iT4S5pkPS/\nb1/Rcdth3PrvAPOdn2qTo5eFQuUdSDp44OdM2kdtj+/XMgi3LotpESDnJba4PO0p\n4DFcMfl1AgMBAAECggEAC2llzIwaiVpzaThoMqOhddtp2ZRJXqLJoowTNLrj80la\nNLj3uU99ardwusO8TOvbUxQPdbA2GTwocJLTnhxAMCDJF5XVrwDdSykRNhG7R75x\nGUQn1UzotxL01IYr5KSXnHMGdbqPdTehRl3RxyZCclCfnnyjvWuFQfvnzNxfw81S\nc4qbRO/4hMhzQT0Zb7/6IpUI3+BNUs2MXGdE8eGmT7Dbe8HTh2Knxas7WjiD9dXI\n9xW9iH6WmdF13CutcUpNOn2E3KpBD7/fPCYaZ4K7dRqBTKFLpGQSEglIPBEeBkdP\nmVuZX+h8iIs9hLYT0q1g8cNGHwe3i2UDghJEGK8ruwKBgQDXtdH3S6BJrbHqql4E\nGmy2gQaku8wONPwFp3IV6qvszagz8DhhmuZ3yvOk0KgiOXrebZbWTl9htV27g2HR\nzcjtTZJJQ2YlBHWkka91/vU17Ldc7xwaUzwrmEq6d0myEMZO3IcpB6gJO7PM/djN\njixosjGerEfEn6G38YVE0PXLwwKBgQDU+eHGtUFMzjgXDzh/diJD0f8PLBx3oy9d\ncg7qZSjZtROxp/F8lokf12tvVSc+lKcGjmhjHvA/BKo0lNOx6To3H/FUYGn6AdAY\njfxydg99wTJekTIEGCByHSQ0C6X1kOzP5X+w+IMll1JZlYbHE643xn423sQcWf4U\n70UjN7UqZwKBgH+RsbjUatjn9j5Xvv4iOoS8TZeC0KzePOWDH39Cp6aGAaGlwVJH\n72CNEAY6uBR1deqxWPEorFP2lJZenq0bTGa653aYe4IM3x4SYngf7hiUA+TcK/yN\nmRoXGKqp/VVngkAFP5HOS1waiL0EqwD1weGw8JNsQ41O8q78ENqf0Z1NAoGBAJjK\noJB3Lt7UP2dDsyu2a8SuHkcbRV0LRIrMrii45EKz5uoYa2YPdVbTrC7WL251JRLO\nDdO2uXLsfNN2Rh2oDezITNFUzhLfRBSpoIfZbSmx9dnkXraTPIvBnlx8UtbG3y4T\nHrWuxB+u3RSJ8oRV+THohFoHHTid02vfcIFgkOdXAoGBAMrYlsrlU1IKYuFvb0Jz\nuJ+Zo2L6IC7bUYS4an3Y5OkiJrKlRXkigyjeGOeH5UZbsn2eeQ2YEcwIcg8IQDkz\n35eYfzXTTNxWP3tQJEjLrKM+ClnGfSD1SRsqMXtXAOoyfqK3ESsWiFQ0y4wzmZSs\ngqfgxZcGN5vLhzhg0BP1d/my\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-di5b9@edutrack-199a8.iam.gserviceaccount.com",
+  "client_id": "109896879900717573536",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-di5b9%40edutrack-199a8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
